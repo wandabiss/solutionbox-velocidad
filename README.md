@@ -36,4 +36,4 @@ Banner para la web de relojes suunto (940x300)
 
 1. Landing page con imagenes y contenedores flexibles  ( Slide con Bootstrap )
 
-* #### Podés verlo aquí -> [MAQUETADO RAPIDO] (https://wandabiss.github.io/solutionbox-velocidad)
+* #### Podés verlo aquí -> [MAQUETADO RAPIDO](https://wandabiss.github.io/solutionbox-velocidad)
